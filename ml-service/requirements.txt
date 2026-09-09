@@ -1,3 +1,8 @@
 fastapi
 uvicorn[standard]
-
+pillow
+pytesseract
+pymupdf
+python-multipart
+pytest
+httpx
